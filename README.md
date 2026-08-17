@@ -1,45 +1,203 @@
-# Saransh Amoli — Portfolio
+<div align="center">
 
-<p align="center">
-  <strong>Personal portfolio website built with HTML, CSS and vanilla JavaScript.</strong>
+# Saransh Amoli
+
+### Computer Science & Engineering • AI • Machine Learning • Data Science
+
+<p>
+  <a href="https://saranshamoli.com">
+    <img src="https://img.shields.io/badge/Portfolio-saranshamoli.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/amoli-exe">
+    <img src="https://img.shields.io/badge/GitHub-amoli--exe-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/saranshamoli/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saransh%20Amoli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://saranshamoli.com">Live Website</a>
-  ·
-  <a href="https://github.com/amoli-exe">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/saranshamoli/">LinkedIn</a>
+<p>
+  <strong>Turning curiosity into code.</strong>
 </p>
+
+</div>
 
 ---
 
-## ✨ Overview
+<div align="center">
 
-This repository contains my personal developer portfolio.
+> <strong>Learn → Build → Break → Understand → Improve → Ship</strong>
 
-The site is designed to present my:
+</div>
 
-- Programming and computer science skills
-- Projects and GitHub work
-- Learning journey
-- Certifications
-- Contact information
+## About
 
-The portfolio is intentionally built without a frontend framework so the core implementation stays simple, fast and easy to maintain.
+<p>
+I am a Computer Science & Engineering student at
+<strong>Graphic Era Hill University</strong>, interested in
+<strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>
+and <strong>Data Science</strong>.
+</p>
 
-## 🛠️ Tech Stack
+<p>
+I am building strong technical foundations while exploring programming,
+problem solving, IoT, Cloud Computing and practical applications of modern
+technology.
+</p>
 
-| Technology | Purpose |
-| --- | --- |
-| HTML5 | Semantic page structure |
-| CSS3 | Responsive layout, animations and visual design |
-| JavaScript | Navigation and small interactive features |
-| Git | Version control |
-| GitHub | Source code and deployment |
-| GitHub Pages | Static website hosting |
+<p>
+My academic journey includes a <strong>Diploma in Computer Application</strong>
+with a focus on Artificial Intelligence & Data Science, followed by my
+Bachelor's journey in Computer Science & Engineering.
+</p>
 
-## 📁 Project Structure
+## Education
+
+<table>
+  <tr>
+    <th>Program</th>
+    <th>Focus</th>
+    <th>Institution</th>
+    <th>Timeline</th>
+  </tr>
+  <tr>
+    <td><strong>Bachelor of Technology</strong></td>
+    <td>Computer Science & Engineering</td>
+    <td>Graphic Era Hill University</td>
+    <td>August 2026</td>
+  </tr>
+  <tr>
+    <td><strong>Diploma in Computer Application</strong></td>
+    <td>Artificial Intelligence & Data Science</td>
+    <td>Graphic Era Hill University</td>
+    <td>August 2025 – August 2026</td>
+  </tr>
+  <tr>
+    <td><strong>Senior Secondary</strong></td>
+    <td>Class 12th · Science</td>
+    <td>Adarsh Vidya Niketan</td>
+    <td>April 2024 – May 2025</td>
+  </tr>
+</table>
+
+## Skills
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Programming</h3>
+      <p>Python · C++ · Problem Solving</p>
+    </td>
+    <td width="50%">
+      <h3>Core CS</h3>
+      <p>Computer Science · Data Structures · Algorithms · Git · GitHub</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AI & Data</h3>
+      <p>Artificial Intelligence · Machine Learning · Data Science</p>
+    </td>
+    <td width="50%">
+      <h3>Collaboration</h3>
+      <p>Team Building · Team Organization · Communication</p>
+    </td>
+  </tr>
+</table>
+
+## Experience
+
+<table>
+  <tr>
+    <td><strong>TechGeeks GEHU</strong></td>
+    <td>
+      <strong>Associate Member</strong><br>
+      February 2026 – Present · Haldwani
+    </td>
+  </tr>
+</table>
+
+## Projects
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Technology</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><strong>Python Learning Journey</strong></td>
+    <td>Python</td>
+    <td>
+      A structured collection of Python fundamentals, exercises and
+      experiments while progressing through CS50P.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Personal Portfolio</strong></td>
+    <td>HTML · CSS · JavaScript</td>
+    <td>
+      A responsive developer portfolio built from scratch with semantic HTML,
+      modern CSS and vanilla JavaScript.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AI / Data Project</strong></td>
+    <td>Coming next</td>
+    <td>
+      Space reserved for a practical AI or Data Science project.
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/amoli-exe">
+    <strong>View my GitHub →</strong>
+  </a>
+</p>
+
+## Certifications & Learning
+
+<table>
+  <tr>
+    <th>Provider</th>
+    <th>Credential</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>Google Cloud</td>
+    <td>Building Generative AI Applications with Gemini and Streamlit</td>
+    <td>Issued November 2025</td>
+  </tr>
+  <tr>
+    <td>Google Cloud</td>
+    <td>Prompt Design and Optimization in Vertex AI</td>
+    <td>Issued November 2025</td>
+  </tr>
+  <tr>
+    <td>Google Cloud</td>
+    <td>Scalable Deployments and Delivery — Level 3 Skill Badge</td>
+    <td>Google Cloud</td>
+  </tr>
+  <tr>
+    <td>Technology</td>
+    <td>Introduction to Internet of Things</td>
+    <td>Certification</td>
+  </tr>
+</table>
+
+## Portfolio Website
+
+<p>
+This repository powers my personal portfolio website. The implementation
+keeps the frontend lightweight by using plain HTML, CSS and vanilla
+JavaScript rather than a frontend framework.
+</p>
+
+<details>
+  <summary><strong>Project structure</strong></summary>
+
+<br>
 
 ```text
 Portfolio/
@@ -49,130 +207,128 @@ Portfolio/
 └── README.md
 ```
 
-### `index.html`
+</details>
 
-Contains the portfolio structure and sections:
+### Frontend
 
-- Hero
-- About
-- Skills
-- Projects
-- Certifications
-- Contact
-- Footer
+<table>
+  <tr>
+    <th>File</th>
+    <th>Purpose</th>
+  </tr>
+  <tr>
+    <td><code>index.html</code></td>
+    <td>
+      Semantic structure for the hero, about, education, experience, skills,
+      projects, certifications and contact sections.
+    </td>
+  </tr>
+  <tr>
+    <td><code>style.css</code></td>
+    <td>
+      Responsive layout, dark UI, glass-style cards, typography, animations,
+      buttons, terminal component and mobile navigation.
+    </td>
+  </tr>
+  <tr>
+    <td><code>script.js</code></td>
+    <td>
+      Mobile navigation behaviour and automatic copyright year.
+    </td>
+  </tr>
+</table>
 
-### `style.css`
+## Tech Stack
 
-Contains the complete visual system, including:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages">
+</p>
 
-- Dark UI
-- Responsive layouts
-- Glass-style cards
-- Typography
-- Buttons
-- Terminal-style hero component
-- Mobile navigation styling
+## Run Locally
 
-### `script.js`
-
-Handles lightweight client-side interactions such as:
-
-- Mobile navigation
-- Automatic copyright year
-
-## 🚀 Run Locally
-
-Clone the repository:
+<ol>
+  <li>Clone the repository.</li>
+  <li>Open the project directory.</li>
+  <li>Open <code>index.html</code> in a browser.</li>
+</ol>
 
 ```bash
 git clone https://github.com/amoli-exe/Portfolio.git
 cd Portfolio
 ```
 
-Then open `index.html` in your browser.
+<p>
+For development, the project can also be opened with VS Code using the
+<strong>Live Server</strong> extension.
+</p>
 
-For development, you can also use VS Code with the **Live Server** extension.
+## Deployment
 
-## 🌐 GitHub Pages Deployment
+<p>
+The portfolio is compatible with <strong>GitHub Pages</strong>.
+</p>
 
-This portfolio is compatible with GitHub Pages.
+<ol>
+  <li>Push the project to the <code>main</code> branch.</li>
+  <li>Open the repository on GitHub.</li>
+  <li>Go to <strong>Settings → Pages</strong>.</li>
+  <li>Select <strong>Deploy from a branch</strong>.</li>
+  <li>Select the <code>main</code> branch and <code>/root</code> folder.</li>
+  <li>Click <strong>Save</strong>.</li>
+</ol>
 
-1. Push the project to the `main` branch.
-2. Open the repository on GitHub.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, select **Deploy from a branch**.
-5. Select the `main` branch and `/root` folder.
-6. Click **Save**.
-7. Wait for GitHub Pages to publish the site.
+## Contact
 
-If a custom domain is configured, update the DNS records and GitHub Pages settings accordingly.
+<table>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td>
+      <a href="mailto:amolisaransh@gmail.com">amolisaransh@gmail.com</a><br>
+      <a href="mailto:saranshamoli@proton.me">saranshamoli@proton.me</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td>
+      <a href="https://www.linkedin.com/in/saranshamoli/">
+        linkedin.com/in/saranshamoli
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>GitHub</strong></td>
+    <td>
+      <a href="https://github.com/amoli-exe">github.com/amoli-exe</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Website</strong></td>
+    <td>
+      <a href="https://saranshamoli.com">saranshamoli.com</a>
+    </td>
+  </tr>
+</table>
 
-## 📌 Featured Projects
+## License
 
-### Portfolio
+<p>
+This is primarily a personal portfolio. The source code is publicly
+available for learning and reference.
+</p>
 
-My personal portfolio website.
-
-**Repository:**  
-https://github.com/amoli-exe/Portfolio
-
-### CreatorFlow
-
-A creator-focused web project built while exploring frontend development and UI design.
-
-**Repository:**  
-https://github.com/amoli-exe/creatorflow-by-saransh
-
-## 🎓 About Me
-
-I'm a BCA student specializing in **Artificial Intelligence & Data Science** at Graphic Era Hill University.
-
-My current areas of focus include:
-
-- Python
-- C++
-- Data Structures & Algorithms
-- Artificial Intelligence
-- Data Science
-- Machine Learning
-- Cloud Computing
-- Web Development
-- Git and GitHub
-
-My approach is simple:
-
-> **Learn → Build → Break → Understand → Improve → Ship**
-
-## 🏆 Certifications & Learning
-
-Some of the learning credentials represented on the portfolio include Google Cloud skill badges related to:
-
-- Generative AI applications with Gemini and Streamlit
-- Prompt Design and Optimization in Vertex AI
-- Scalable deployments and delivery
-
-## 📬 Contact
-
-I'm open to learning opportunities, collaborations and interesting technical projects.
-
-**Email:**  
-- amolisaransh@gmail.com
-- saranshamoli@proton.me
-
-**LinkedIn:**  
-https://www.linkedin.com/in/saranshamoli/
-
-**GitHub:**  
-https://github.com/amoli-exe
-
-## 📄 License
-
-This project is primarily a personal portfolio. The source code is publicly available for learning and reference.
-
-Please don't copy the complete portfolio and present it as your own.
+<p>
+<strong>Please do not copy the complete portfolio and present it as your own.</strong>
+</p>
 
 ---
 
-<p align="center">
-  Built with HTML · CSS · JavaScript
-</p>
+<div align="center">
+
+<sub>Built with HTML · CSS · JavaScript</sub>
+
+</div>
